@@ -1,3 +1,7 @@
+
+from encryptor import*
+from decrypter import*
+
 #Author Ankit Tiwari
 
 """This script will send encrypted email to the reciver """
@@ -25,4 +29,27 @@ D(B)= (B-1) % 26
 D(B) = A
 
 """
+
+
+Enc(3)
+Dec(3)
+
+#======================================
+
+Email = ""
+Password = ""
+ToAddress = ""
+
+Send_ENC_email(Email,Password,ToAddress)
+
+
+
+
+
+
+
+
+
+
+
 
